@@ -4524,3 +4524,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix environment variables to improve reliability
 [personalPortfolioWebsite] Fix performance of API calls to improve performance
 [personalPortfolioWebsite] Fix accessibility labels to support mobile devices
+[dogShelter] Fix configuration handling to prevent runtime errors
