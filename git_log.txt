@@ -4520,3 +4520,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix integration tests
 [foodOrderingApp] Fix asset organization to improve consistency
 [foodOrderingApp] Fix form validation to keep the implementation consistent
+[personalPortfolioWebsite] Fix environment variables to simplify the implementation
