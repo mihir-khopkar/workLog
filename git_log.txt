@@ -4517,3 +4517,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix search functionality to reduce duplication
 [dogShelter] Fix README documentation to reduce duplication
 [foodOrderingApp] Fix navigation behavior to reduce unnecessary work
+[realEstateListing] Fix integration tests
