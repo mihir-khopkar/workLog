@@ -4503,3 +4503,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix API response handling to prevent runtime errors
 [personalPortfolioWebsite] Fix API response handling to make failures easier to diagnose
 [realEstateListing] Fix CSS responsiveness to prevent runtime errors
+[realEstateListing] Fix accessibility labels to keep the implementation consistent
