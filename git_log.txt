@@ -4513,3 +4513,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix configuration handling
 [dogShelter] Fix cache behavior to clarify expected behavior
 [realEstateListing] Fix search functionality
+[foodOrderingApp] Fix integration tests to reduce unnecessary work
