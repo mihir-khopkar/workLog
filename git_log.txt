@@ -4499,3 +4499,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix handling for logging
 [foodOrderingApp] Fix integration tests to improve user experience
 [personalPortfolioWebsite] Fix accessibility labels to support mobile devices
+[dogShelter] Fix API error handling for better readability
