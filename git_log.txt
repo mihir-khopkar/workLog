@@ -4498,3 +4498,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix null handling to reduce unnecessary work
 [personalPortfolioWebsite] Fix handling for logging
 [foodOrderingApp] Fix integration tests to improve user experience
+[personalPortfolioWebsite] Fix accessibility labels to support mobile devices
