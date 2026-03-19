@@ -4486,3 +4486,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix image loading to improve consistency
 [dogShelter] Fix support for dependency versions
 [dogShelter] Fix lint configuration to make behavior more predictable
+[personalPortfolioWebsite] Fix pagination logic to improve performance
