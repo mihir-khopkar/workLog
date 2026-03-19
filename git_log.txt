@@ -4489,3 +4489,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix pagination logic to improve performance
 [foodOrderingApp] Fix API request retries to handle edge cases
 [realEstateListing] Fix data formatting to support mobile devices
+[personalPortfolioWebsite] Fix image loading
