@@ -4470,3 +4470,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix README documentation to make behavior more predictable
 [realEstateListing] Fix handling for filter controls
 [realEstateListing] Fix authentication flow for better readability
+[foodOrderingApp] Fix dependency versions to improve consistency
