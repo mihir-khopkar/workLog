@@ -4481,3 +4481,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix dependency versions to reduce duplication
 [realEstateListing] Fix date handling to improve accessibility
 [dogShelter] Fix navigation behavior to prepare for future changes
+[dogShelter] Fix pagination logic to improve test coverage
