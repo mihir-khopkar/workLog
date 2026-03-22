@@ -4474,3 +4474,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix CSS responsiveness to simplify the implementation
 [dogShelter] Fix cache behavior to support mobile devices
 [dogShelter] Fix authorization checks
+[dogShelter] Fix support for query performance
