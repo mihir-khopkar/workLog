@@ -4462,3 +4462,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix component structure to reduce unnecessary work
 [dogShelter] Fix date handling
 [foodOrderingApp] Fix support for test configuration
+[realEstateListing] Fix data formatting to support mobile devices
