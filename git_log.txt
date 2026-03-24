@@ -4458,3 +4458,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix asset organization
 [foodOrderingApp] Fix test configuration to prepare for future changes
 [realEstateListing] Fix edge-case handling to improve test coverage
+[dogShelter] Fix logging to reduce unnecessary work
