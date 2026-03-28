@@ -4449,3 +4449,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix image loading to reduce duplication
 [foodOrderingApp] Fix type definitions to simplify the implementation
 [personalPortfolioWebsite] Fix search functionality to improve test coverage
+[foodOrderingApp] Fix authorization checks to improve developer experience
