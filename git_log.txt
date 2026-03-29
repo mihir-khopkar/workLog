@@ -4439,3 +4439,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix image loading to make behavior more predictable
 [realEstateListing] Fix cache behavior to reduce duplication
 [realEstateListing] Fix handling for configuration handling
+[foodOrderingApp] Fix dependency versions for better readability
