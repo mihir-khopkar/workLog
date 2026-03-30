@@ -4441,3 +4441,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix handling for configuration handling
 [foodOrderingApp] Fix dependency versions for better readability
 [foodOrderingApp] Fix database indexing to simplify the implementation
+[dogShelter] Fix database queries to improve test coverage
