@@ -4413,3 +4413,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix function naming to prepare for future changes
 [realEstateListing] Fix build configuration to make behavior more predictable
 [personalPortfolioWebsite] Fix state management to reduce duplication
+[dogShelter] Fix asset organization to prevent runtime errors
