@@ -4410,3 +4410,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix null handling to handle edge cases
 [realEstateListing] Fix database queries to keep the implementation consistent
 [dogShelter] Fix state management to improve accessibility
+[dogShelter] Fix function naming to prepare for future changes
