@@ -4404,3 +4404,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix state management to support mobile devices
 [foodOrderingApp] Fix logging to reduce duplication
 [foodOrderingApp] Fix README documentation to improve developer experience
+[foodOrderingApp] Fix environment variables to keep the implementation consistent
