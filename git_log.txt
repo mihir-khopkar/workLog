@@ -4398,3 +4398,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix integration tests to prevent runtime errors
 [personalPortfolioWebsite] Fix CSS responsiveness to reduce unnecessary work
 [foodOrderingApp] Fix support for integration tests
+[personalPortfolioWebsite] Fix cache behavior for better maintainability
