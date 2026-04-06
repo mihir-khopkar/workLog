@@ -4399,3 +4399,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix CSS responsiveness to reduce unnecessary work
 [foodOrderingApp] Fix support for integration tests
 [personalPortfolioWebsite] Fix cache behavior for better maintainability
+[dogShelter] Fix authentication flow to handle edge cases
