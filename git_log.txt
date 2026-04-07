@@ -4386,3 +4386,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix logging to clarify expected behavior
 [realEstateListing] Fix lint configuration to simplify the implementation
 [foodOrderingApp] Fix filter controls to clarify expected behavior
+[realEstateListing] Fix null handling to improve reliability
