@@ -4380,3 +4380,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix search functionality to improve accessibility
 [dogShelter] Fix CSS responsiveness to improve performance
 [personalPortfolioWebsite] Fix date handling to prevent runtime errors
+[dogShelter] Fix asset organization
