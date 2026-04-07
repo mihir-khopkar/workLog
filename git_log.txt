@@ -4392,3 +4392,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix component structure to clarify expected behavior
 [realEstateListing] Fix database indexing
 [foodOrderingApp] Fix image loading to improve consistency
+[dogShelter] Fix build configuration to reduce unnecessary work
