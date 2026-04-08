@@ -4376,3 +4376,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix code comments to improve accessibility
 [dogShelter] Fix state management for better readability
 [foodOrderingApp] Fix image loading to improve accessibility
+[personalPortfolioWebsite] Fix data formatting for better maintainability
