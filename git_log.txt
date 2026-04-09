@@ -4374,3 +4374,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix function naming
 [realEstateListing] Fix form validation to improve developer experience
 [foodOrderingApp] Fix code comments to improve accessibility
+[dogShelter] Fix state management for better readability
