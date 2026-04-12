@@ -4357,3 +4357,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix API error handling to prevent runtime errors
 [dogShelter] Fix asset organization
 [personalPortfolioWebsite] Fix pagination logic to reduce unnecessary work
+[dogShelter] Fix mobile layout to prevent runtime errors
