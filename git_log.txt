@@ -4365,3 +4365,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix README documentation to reduce duplication
 [dogShelter] Fix configuration handling to prevent runtime errors
 [dogShelter] Fix dependency versions to improve user experience
+[dogShelter] Fix unit tests to keep the implementation consistent
