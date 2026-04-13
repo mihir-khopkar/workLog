@@ -4358,3 +4358,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix asset organization
 [personalPortfolioWebsite] Fix pagination logic to reduce unnecessary work
 [dogShelter] Fix mobile layout to prevent runtime errors
+[dogShelter] Fix edge-case handling to support mobile devices
