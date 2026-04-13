@@ -4347,3 +4347,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix development scripts to prevent runtime errors
 [realEstateListing] Fix date handling to improve accessibility
 [personalPortfolioWebsite] Fix logging to make failures easier to diagnose
+[foodOrderingApp] Fix dependency versions to support mobile devices
