@@ -4352,3 +4352,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix data formatting to reduce duplication
 [realEstateListing] Fix handling for API request retries
 [foodOrderingApp] Fix API request retries to reduce duplication
+[dogShelter] Fix integration tests to improve developer experience
