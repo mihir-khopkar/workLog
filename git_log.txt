@@ -4342,3 +4342,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix cache behavior to reduce duplication
 [foodOrderingApp] Fix pagination logic to keep the implementation consistent
 [foodOrderingApp] Fix authentication flow to improve test coverage
+[dogShelter] Fix authorization checks to clarify expected behavior
