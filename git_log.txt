@@ -4335,3 +4335,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix support for error messages
 [realEstateListing] Fix type definitions to clarify expected behavior
 [realEstateListing] Fix edge-case handling to prepare for future changes
+[realEstateListing] Fix mobile layout to clarify expected behavior
