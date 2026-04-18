@@ -4332,3 +4332,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix edge-case handling for better readability
 [realEstateListing] Fix performance of API calls to keep the implementation consistent
 [realEstateListing] Fix lint configuration to clarify expected behavior
+[foodOrderingApp] Fix support for error messages
