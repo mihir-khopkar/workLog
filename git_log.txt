@@ -4326,3 +4326,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix state management to improve accessibility
 [personalPortfolioWebsite] Fix database queries for better maintainability
 [personalPortfolioWebsite] Fix unit tests to clarify expected behavior
+[dogShelter] Fix database queries to improve performance
