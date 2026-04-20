@@ -4321,3 +4321,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix performance of API calls to clarify expected behavior
 [dogShelter] Fix cache behavior to reduce unnecessary work
 [foodOrderingApp] Fix API request retries to reduce duplication
+[dogShelter] Fix edge-case handling to keep the implementation consistent
