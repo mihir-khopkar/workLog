@@ -4315,3 +4315,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix authentication flow to reduce unnecessary work
 [dogShelter] Fix state management to improve accessibility
 [dogShelter] Fix state management to clarify expected behavior
+[personalPortfolioWebsite] Fix README documentation to simplify the implementation
