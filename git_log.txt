@@ -4314,3 +4314,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix filter controls to reduce duplication
 [realEstateListing] Fix authentication flow to reduce unnecessary work
 [dogShelter] Fix state management to improve accessibility
+[dogShelter] Fix state management to clarify expected behavior
