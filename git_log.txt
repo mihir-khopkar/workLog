@@ -4311,3 +4311,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix edge-case handling to improve user experience
 [realEstateListing] Fix README documentation to support mobile devices
 [realEstateListing] Fix support for build configuration
+[personalPortfolioWebsite] Fix filter controls to reduce duplication
