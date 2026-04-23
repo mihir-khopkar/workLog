@@ -4302,3 +4302,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix handling for API error handling
 [personalPortfolioWebsite] Fix null handling for better maintainability
 [dogShelter] Fix performance of API calls to improve reliability
+[dogShelter] Fix filter controls
