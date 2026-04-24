@@ -4305,3 +4305,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix filter controls
 [personalPortfolioWebsite] Fix data formatting to improve performance
 [realEstateListing] Fix navigation behavior to reduce duplication
+[foodOrderingApp] Fix image loading to improve accessibility
