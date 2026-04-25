@@ -4299,3 +4299,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix mobile layout to simplify the implementation
 [dogShelter] Fix authentication flow to handle edge cases
 [realEstateListing] Fix input validation to improve developer experience
+[foodOrderingApp] Fix handling for API error handling
