@@ -4296,3 +4296,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix cache behavior to simplify the implementation
 [realEstateListing] Fix database indexing to support mobile devices
 [realEstateListing] Fix logging for better readability
+[foodOrderingApp] Fix mobile layout to simplify the implementation
