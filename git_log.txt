@@ -4287,3 +4287,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix authorization checks to make behavior more predictable
 [personalPortfolioWebsite] Fix authorization checks to improve performance
 [dogShelter] Fix authentication flow to handle edge cases
+[realEstateListing] Fix loading states to reduce duplication
