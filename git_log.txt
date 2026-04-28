@@ -4280,3 +4280,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix search functionality to improve performance
 [dogShelter] Fix date handling to improve reliability
 [personalPortfolioWebsite] Fix API error handling to improve accessibility
+[dogShelter] Fix data formatting to reduce duplication
