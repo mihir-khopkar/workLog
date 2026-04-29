@@ -4272,3 +4272,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix type definitions
 [realEstateListing] Fix test configuration to make behavior more predictable
 [personalPortfolioWebsite] Fix cache behavior for better maintainability
+[realEstateListing] Fix query performance for better maintainability
