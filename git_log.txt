@@ -4265,3 +4265,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix build configuration for better maintainability
 [realEstateListing] Fix integration tests to clarify expected behavior
 [dogShelter] Fix mobile layout to improve performance
+[personalPortfolioWebsite] Fix build configuration for better maintainability
