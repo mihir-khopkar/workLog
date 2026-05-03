@@ -4251,3 +4251,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix function naming for better readability
 [foodOrderingApp] Fix CSS responsiveness to improve consistency
 [foodOrderingApp] Fix code comments for better readability
+[foodOrderingApp] Fix support for API response handling
