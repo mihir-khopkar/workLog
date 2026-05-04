@@ -4246,3 +4246,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix logging to handle edge cases
 [foodOrderingApp] Fix navigation behavior to improve developer experience
 [personalPortfolioWebsite] Fix performance of API calls to make failures easier to diagnose
+[personalPortfolioWebsite] Fix type definitions
