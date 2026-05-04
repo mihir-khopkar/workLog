@@ -4248,3 +4248,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix performance of API calls to make failures easier to diagnose
 [personalPortfolioWebsite] Fix type definitions
 [dogShelter] Fix API response handling to handle edge cases
+[foodOrderingApp] Fix function naming for better readability
