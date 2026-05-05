@@ -4244,3 +4244,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix lint configuration to improve developer experience
 [personalPortfolioWebsite] Fix environment variables to handle edge cases
 [personalPortfolioWebsite] Fix logging to handle edge cases
+[foodOrderingApp] Fix navigation behavior to improve developer experience
