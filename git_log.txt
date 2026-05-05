@@ -4239,3 +4239,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix code comments
 [personalPortfolioWebsite] Fix pagination logic to make failures easier to diagnose
 [personalPortfolioWebsite] Fix type definitions
+[dogShelter] Fix configuration handling to handle edge cases
