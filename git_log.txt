@@ -4237,3 +4237,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix performance of API calls to clarify expected behavior
 [dogShelter] Fix lint configuration to make behavior more predictable
 [foodOrderingApp] Fix code comments
+[personalPortfolioWebsite] Fix pagination logic to make failures easier to diagnose
