@@ -4235,3 +4235,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix navigation behavior to prepare for future changes
 [foodOrderingApp] Fix asset organization to improve accessibility
 [personalPortfolioWebsite] Fix performance of API calls to clarify expected behavior
+[dogShelter] Fix lint configuration to make behavior more predictable
