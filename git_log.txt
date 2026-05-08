@@ -4229,3 +4229,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix filter controls to improve developer experience
 [personalPortfolioWebsite] Fix README documentation
 [foodOrderingApp] Fix README documentation to improve developer experience
+[foodOrderingApp] Fix integration tests to prepare for future changes
