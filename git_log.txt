@@ -4226,3 +4226,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix README documentation to improve test coverage
 [foodOrderingApp] Fix handling for component structure
 [foodOrderingApp] Fix component structure to keep the implementation consistent
+[dogShelter] Fix filter controls to improve developer experience
