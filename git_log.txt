@@ -4222,3 +4222,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix code comments to make failures easier to diagnose
 [dogShelter] Fix state management to support mobile devices
 [dogShelter] Fix build configuration to improve user experience
+[dogShelter] Fix API error handling to support mobile devices
