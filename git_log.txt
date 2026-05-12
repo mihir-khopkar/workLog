@@ -4212,3 +4212,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix support for deployment configuration
 [dogShelter] Fix database indexing to reduce duplication
 [foodOrderingApp] Fix error messages to improve test coverage
+[realEstateListing] Fix support for navigation behavior
