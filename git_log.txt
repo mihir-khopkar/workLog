@@ -4207,3 +4207,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix code comments to simplify the implementation
 [foodOrderingApp] Fix mobile layout to improve developer experience
 [foodOrderingApp] Fix filter controls to handle edge cases
+[foodOrderingApp] Fix support for accessibility labels
