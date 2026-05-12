@@ -4219,3 +4219,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix handling for query performance
 [personalPortfolioWebsite] Fix query performance to improve performance
 [realEstateListing] Fix logging to improve developer experience
+[personalPortfolioWebsite] Fix code comments to make failures easier to diagnose
