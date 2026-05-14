@@ -4201,3 +4201,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix support for database indexing
 [foodOrderingApp] Fix null handling
 [realEstateListing] Fix state management
+[personalPortfolioWebsite] Fix pagination logic
