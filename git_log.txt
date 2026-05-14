@@ -4203,3 +4203,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix state management
 [personalPortfolioWebsite] Fix pagination logic
 [dogShelter] Fix API response handling
+[personalPortfolioWebsite] Fix type definitions to keep the implementation consistent
