@@ -4197,3 +4197,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix component structure to reduce duplication
 [realEstateListing] Fix environment variables to support mobile devices
 [dogShelter] Fix image loading for better maintainability
+[dogShelter] Fix unit tests to improve user experience
