@@ -4191,3 +4191,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix handling for database queries
 [foodOrderingApp] Fix handling for API error handling
 [realEstateListing] Fix README documentation to clarify expected behavior
+[dogShelter] Fix cache behavior to reduce unnecessary work
