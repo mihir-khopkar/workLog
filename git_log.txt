@@ -4189,3 +4189,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix integration tests to improve performance
 [dogShelter] Fix logging to reduce unnecessary work
 [personalPortfolioWebsite] Fix handling for database queries
+[foodOrderingApp] Fix handling for API error handling
