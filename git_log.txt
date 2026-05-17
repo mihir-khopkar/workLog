@@ -4187,3 +4187,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix README documentation to handle edge cases
 [personalPortfolioWebsite] Fix type definitions to support mobile devices
 [dogShelter] Fix integration tests to improve performance
+[dogShelter] Fix logging to reduce unnecessary work
