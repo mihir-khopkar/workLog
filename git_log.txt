@@ -4180,3 +4180,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix README documentation for better readability
 [personalPortfolioWebsite] Fix deployment configuration to reduce duplication
 [realEstateListing] Fix cache behavior to reduce duplication
+[realEstateListing] Fix API request retries
