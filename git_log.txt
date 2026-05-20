@@ -4171,3 +4171,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix support for loading states
 [realEstateListing] Fix support for build configuration
 [personalPortfolioWebsite] Fix integration tests for better maintainability
+[realEstateListing] Fix asset organization to simplify the implementation
