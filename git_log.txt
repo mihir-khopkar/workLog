@@ -4177,3 +4177,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix authorization checks to reduce unnecessary work
 [foodOrderingApp] Fix performance of API calls for better readability
 [foodOrderingApp] Fix code comments for better readability
+[foodOrderingApp] Fix README documentation for better readability
