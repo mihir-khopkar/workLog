@@ -4156,3 +4156,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix search functionality to simplify the implementation
 [dogShelter] Fix navigation behavior to make behavior more predictable
 [foodOrderingApp] Fix code comments to improve reliability
+[dogShelter] Fix state management to prepare for future changes
