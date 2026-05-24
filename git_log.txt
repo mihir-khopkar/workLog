@@ -4154,3 +4154,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix code comments to reduce duplication
 [realEstateListing] Fix CSS responsiveness to prevent runtime errors
 [dogShelter] Fix search functionality to simplify the implementation
+[dogShelter] Fix navigation behavior to make behavior more predictable
