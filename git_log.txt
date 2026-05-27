@@ -4138,3 +4138,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix authorization checks to simplify the implementation
 [dogShelter] Fix function naming to simplify the implementation
 [realEstateListing] Fix date handling to improve user experience
+[personalPortfolioWebsite] Fix null handling to prevent runtime errors
