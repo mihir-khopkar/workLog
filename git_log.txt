@@ -4122,3 +4122,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix null handling to handle edge cases
 [dogShelter] Fix README documentation to reduce duplication
 [personalPortfolioWebsite] Fix data formatting to improve accessibility
+[personalPortfolioWebsite] Fix mobile layout to improve test coverage
