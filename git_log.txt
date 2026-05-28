@@ -4124,3 +4124,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix data formatting to improve accessibility
 [personalPortfolioWebsite] Fix mobile layout to improve test coverage
 [personalPortfolioWebsite] Fix lint configuration to improve test coverage
+[dogShelter] Fix image loading to improve test coverage
