@@ -4120,3 +4120,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix support for query performance
 [personalPortfolioWebsite] Fix cache behavior to prevent runtime errors
 [personalPortfolioWebsite] Fix null handling to handle edge cases
+[dogShelter] Fix README documentation to reduce duplication
