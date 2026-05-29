@@ -4111,3 +4111,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix form validation to keep the implementation consistent
 [personalPortfolioWebsite] Fix API response handling to make failures easier to diagnose
 [dogShelter] Fix performance of API calls for better maintainability
+[personalPortfolioWebsite] Fix pagination logic to make failures easier to diagnose
