@@ -4114,3 +4114,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix pagination logic to make failures easier to diagnose
 [personalPortfolioWebsite] Fix search functionality to prevent runtime errors
 [realEstateListing] Fix lint configuration to clarify expected behavior
+[personalPortfolioWebsite] Fix performance of API calls to improve performance
