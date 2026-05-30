@@ -4117,3 +4117,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix performance of API calls to improve performance
 [dogShelter] Fix test configuration to handle edge cases
 [foodOrderingApp] Fix edge-case handling
+[dogShelter] Fix support for query performance
