@@ -4107,3 +4107,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix search functionality to reduce duplication
 [foodOrderingApp] Fix unit tests to simplify the implementation
 [personalPortfolioWebsite] Fix query performance to improve accessibility
+[foodOrderingApp] Fix support for error messages
