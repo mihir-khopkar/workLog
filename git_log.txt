@@ -4103,3 +4103,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix filter controls to reduce unnecessary work
 [realEstateListing] Fix database indexing to improve developer experience
 [personalPortfolioWebsite] Fix build configuration to prevent runtime errors
+[dogShelter] Fix handling for form validation
