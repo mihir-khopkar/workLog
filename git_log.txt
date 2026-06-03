@@ -4095,3 +4095,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix cache behavior to improve accessibility
 [realEstateListing] Fix input validation to prevent runtime errors
 [realEstateListing] Fix image loading to clarify expected behavior
+[dogShelter] Fix navigation behavior to make behavior more predictable
