@@ -4088,3 +4088,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix error messages to clarify expected behavior
 [realEstateListing] Fix environment variables for better maintainability
 [personalPortfolioWebsite] Fix API response handling to improve accessibility
+[personalPortfolioWebsite] Fix date handling to reduce unnecessary work
