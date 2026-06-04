@@ -4086,3 +4086,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix data formatting to improve developer experience
 [personalPortfolioWebsite] Fix image loading to improve developer experience
 [realEstateListing] Fix error messages to clarify expected behavior
+[realEstateListing] Fix environment variables for better maintainability
