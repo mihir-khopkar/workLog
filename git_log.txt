@@ -4077,3 +4077,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix database indexing to handle edge cases
 [foodOrderingApp] Fix filter controls to support mobile devices
 [foodOrderingApp] Fix function naming to reduce unnecessary work
+[foodOrderingApp] Fix handling for test configuration
