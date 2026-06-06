@@ -4081,3 +4081,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix README documentation to keep the implementation consistent
 [personalPortfolioWebsite] Fix type definitions to support mobile devices
 [foodOrderingApp] Fix asset organization to improve accessibility
+[dogShelter] Fix handling for lint configuration
