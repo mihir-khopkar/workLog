@@ -4073,3 +4073,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix image loading for better maintainability
 [foodOrderingApp] Fix accessibility labels to improve user experience
 [personalPortfolioWebsite] Fix function naming for better maintainability
+[personalPortfolioWebsite] Fix README documentation to make failures easier to diagnose
