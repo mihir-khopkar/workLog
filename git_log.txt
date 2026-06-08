@@ -4068,3 +4068,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix error messages to reduce unnecessary work
 [foodOrderingApp] Fix dependency versions to improve consistency
 [realEstateListing] Fix navigation behavior to reduce duplication
+[dogShelter] Fix configuration handling to handle edge cases
