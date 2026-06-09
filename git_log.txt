@@ -4061,3 +4061,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix state management to prepare for future changes
 [dogShelter] Fix dependency versions to improve user experience
 [dogShelter] Fix state management to prepare for future changes
+[personalPortfolioWebsite] Fix input validation
