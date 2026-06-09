@@ -4057,3 +4057,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix dependency versions to make behavior more predictable
 [realEstateListing] Fix lint configuration to improve accessibility
 [dogShelter] Fix query performance
+[dogShelter] Fix API error handling to improve developer experience
