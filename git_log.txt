@@ -4049,3 +4049,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix README documentation for better readability
 [foodOrderingApp] Fix mobile layout to improve developer experience
 [dogShelter] Fix state management for better readability
+[dogShelter] Fix component structure to prepare for future changes
