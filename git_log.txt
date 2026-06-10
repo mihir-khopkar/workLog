@@ -4054,3 +4054,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix deployment configuration for better maintainability
 [foodOrderingApp] Fix authorization checks to improve test coverage
 [dogShelter] Fix lint configuration for better readability
+[foodOrderingApp] Fix dependency versions to make behavior more predictable
