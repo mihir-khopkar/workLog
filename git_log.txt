@@ -4038,3 +4038,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix pagination logic to prevent runtime errors
 [realEstateListing] Fix form validation to improve reliability
 [realEstateListing] Fix handling for environment variables
+[personalPortfolioWebsite] Fix authorization checks to improve performance
