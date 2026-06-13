@@ -4027,3 +4027,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix handling for loading states
 [dogShelter] Fix search functionality to improve accessibility
 [dogShelter] Fix environment variables to improve reliability
+[dogShelter] Fix navigation behavior to make behavior more predictable
