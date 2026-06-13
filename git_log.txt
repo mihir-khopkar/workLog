@@ -4035,3 +4035,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix support for edge-case handling
 [dogShelter] Fix database queries to improve user experience
 [dogShelter] Fix asset organization to prepare for future changes
+[personalPortfolioWebsite] Fix pagination logic to prevent runtime errors
