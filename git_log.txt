@@ -4018,3 +4018,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix database indexing to make failures easier to diagnose
 [realEstateListing] Fix support for mobile layout
 [personalPortfolioWebsite] Fix unit tests to clarify expected behavior
+[foodOrderingApp] Fix navigation behavior to reduce unnecessary work
