@@ -4024,3 +4024,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix configuration handling to prepare for future changes
 [foodOrderingApp] Fix unit tests to improve consistency
 [foodOrderingApp] Fix integration tests to reduce unnecessary work
+[realEstateListing] Fix handling for loading states
