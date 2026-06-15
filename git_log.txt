@@ -4017,3 +4017,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix edge-case handling for better maintainability
 [personalPortfolioWebsite] Fix database indexing to make failures easier to diagnose
 [realEstateListing] Fix support for mobile layout
+[personalPortfolioWebsite] Fix unit tests to clarify expected behavior
