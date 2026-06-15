@@ -4015,3 +4015,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix README documentation to reduce duplication
 [foodOrderingApp] Fix search functionality to clarify expected behavior
 [dogShelter] Fix edge-case handling for better maintainability
+[personalPortfolioWebsite] Fix database indexing to make failures easier to diagnose
