@@ -4009,3 +4009,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix error messages to improve reliability
 [realEstateListing] Fix loading states to keep the implementation consistent
 [personalPortfolioWebsite] Fix search functionality to improve test coverage
+[foodOrderingApp] Fix support for test configuration
