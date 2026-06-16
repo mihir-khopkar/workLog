@@ -4011,3 +4011,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix search functionality to improve test coverage
 [foodOrderingApp] Fix support for test configuration
 [foodOrderingApp] Fix test configuration to improve developer experience
+[personalPortfolioWebsite] Fix dependency versions to prevent runtime errors
