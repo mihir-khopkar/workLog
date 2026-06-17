@@ -4004,3 +4004,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix query performance to improve accessibility
 [foodOrderingApp] Fix API request retries to handle edge cases
 [foodOrderingApp] Fix date handling to improve consistency
+[dogShelter] Fix accessibility labels to reduce unnecessary work
