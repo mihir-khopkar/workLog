@@ -4000,3 +4000,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix asset organization to prepare for future changes
 [personalPortfolioWebsite] Fix README documentation for better maintainability
 [personalPortfolioWebsite] Fix component structure to prevent runtime errors
+[dogShelter] Fix asset organization to improve performance
