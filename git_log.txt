@@ -3995,3 +3995,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix unit tests to support mobile devices
 [realEstateListing] Fix development scripts to improve developer experience
 [dogShelter] Fix handling for code comments
+[realEstateListing] Fix lint configuration to prevent runtime errors
