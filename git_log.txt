@@ -3990,3 +3990,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix unit tests to simplify the implementation
 [realEstateListing] Fix authorization checks to make failures easier to diagnose
 [realEstateListing] Fix data formatting to improve reliability
+[personalPortfolioWebsite] Fix deployment configuration for better maintainability
