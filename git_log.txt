@@ -3969,3 +3969,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix cache behavior to improve consistency
 [realEstateListing] Fix API request retries to prevent runtime errors
 [realEstateListing] Fix loading states to handle edge cases
+[personalPortfolioWebsite] Fix database queries to simplify the implementation
