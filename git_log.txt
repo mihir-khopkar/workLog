@@ -3950,3 +3950,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix dependency versions to improve reliability
 [realEstateListing] Fix lint configuration to simplify the implementation
 [realEstateListing] Fix API error handling to simplify the implementation
+[personalPortfolioWebsite] Fix CSS responsiveness to support mobile devices
