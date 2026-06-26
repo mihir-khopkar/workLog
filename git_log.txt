@@ -3956,3 +3956,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix asset organization to improve performance
 [personalPortfolioWebsite] Fix input validation to improve reliability
 [realEstateListing] Fix logging to prevent runtime errors
+[dogShelter] Fix component structure to clarify expected behavior
