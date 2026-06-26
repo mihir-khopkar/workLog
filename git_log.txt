@@ -3960,3 +3960,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix accessibility labels to improve test coverage
 [dogShelter] Fix function naming to prepare for future changes
 [personalPortfolioWebsite] Fix query performance to improve performance
+[foodOrderingApp] Fix navigation behavior to improve developer experience
