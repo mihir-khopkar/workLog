@@ -3934,3 +3934,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix error messages to make behavior more predictable
 [foodOrderingApp] Fix component structure to improve developer experience
 [realEstateListing] Fix accessibility labels to keep the implementation consistent
+[realEstateListing] Fix null handling to make failures easier to diagnose
