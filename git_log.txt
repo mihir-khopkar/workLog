@@ -3921,3 +3921,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix build configuration to make failures easier to diagnose
 [personalPortfolioWebsite] Fix dependency versions to prevent runtime errors
 [realEstateListing] Fix state management to simplify the implementation
+[foodOrderingApp] Fix API response handling to reduce duplication
