@@ -3926,3 +3926,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix asset organization to improve reliability
 [realEstateListing] Fix database indexing to prevent runtime errors
 [personalPortfolioWebsite] Fix input validation
+[foodOrderingApp] Fix API error handling to make behavior more predictable
