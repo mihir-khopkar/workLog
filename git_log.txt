@@ -3915,3 +3915,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix search functionality to improve test coverage
 [personalPortfolioWebsite] Fix error messages to reduce duplication
 [realEstateListing] Fix support for development scripts
+[dogShelter] Fix test configuration to simplify the implementation
