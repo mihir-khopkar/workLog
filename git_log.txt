@@ -3908,3 +3908,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix database indexing for better readability
 [realEstateListing] Fix support for component structure
 [dogShelter] Fix error messages for better readability
+[dogShelter] Fix search functionality to support mobile devices
