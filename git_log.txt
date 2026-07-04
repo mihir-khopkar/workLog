@@ -3905,3 +3905,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix state management to support mobile devices
 [personalPortfolioWebsite] Fix development scripts to clarify expected behavior
 [dogShelter] Fix CSS responsiveness to make behavior more predictable
+[personalPortfolioWebsite] Fix database indexing for better readability
