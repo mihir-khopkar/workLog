@@ -3899,3 +3899,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix support for null handling
 [dogShelter] Fix CSS responsiveness to improve accessibility
 [foodOrderingApp] Fix dependency versions to keep the implementation consistent
+[dogShelter] Fix code comments to prepare for future changes
