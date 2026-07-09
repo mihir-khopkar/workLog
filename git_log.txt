@@ -3874,3 +3874,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix asset organization to simplify the implementation
 [realEstateListing] Fix pagination logic to improve developer experience
 [realEstateListing] Fix type definitions to reduce unnecessary work
+[foodOrderingApp] Fix code comments for better readability
