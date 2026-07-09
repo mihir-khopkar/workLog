@@ -3877,3 +3877,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix code comments for better readability
 [personalPortfolioWebsite] Fix query performance to improve accessibility
 [foodOrderingApp] Fix cache behavior to handle edge cases
+[personalPortfolioWebsite] Fix null handling to handle edge cases
