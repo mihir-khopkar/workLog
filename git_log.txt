@@ -3868,3 +3868,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix cache behavior to improve accessibility
 [realEstateListing] Fix cache behavior to reduce duplication
 [foodOrderingApp] Fix component structure to improve reliability
+[dogShelter] Fix mobile layout to improve performance
