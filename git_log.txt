@@ -3864,3 +3864,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix handling for navigation behavior
 [dogShelter] Fix authorization checks to reduce unnecessary work
 [personalPortfolioWebsite] Fix pagination logic to improve consistency
+[personalPortfolioWebsite] Fix API response handling to reduce unnecessary work
