@@ -3859,3 +3859,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix CSS responsiveness to make behavior more predictable
 [realEstateListing] Fix asset organization to simplify the implementation
 [personalPortfolioWebsite] Fix database queries to improve reliability
+[realEstateListing] Fix component structure to improve accessibility
