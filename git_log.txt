@@ -3855,3 +3855,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix data formatting to keep the implementation consistent
 [dogShelter] Fix performance of API calls to handle edge cases
 [dogShelter] Fix form validation to prevent runtime errors
+[personalPortfolioWebsite] Fix environment variables to make behavior more predictable
