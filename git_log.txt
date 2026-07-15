@@ -3844,3 +3844,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix CSS responsiveness to reduce unnecessary work
 [personalPortfolioWebsite] Fix state management to make behavior more predictable
 [realEstateListing] Fix cache behavior
+[foodOrderingApp] Fix environment variables to reduce unnecessary work
