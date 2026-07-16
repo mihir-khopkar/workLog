@@ -3838,3 +3838,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix deployment configuration to reduce duplication
 [dogShelter] Fix logging to improve performance
 [personalPortfolioWebsite] Fix search functionality to prepare for future changes
+[dogShelter] Fix logging to improve performance
