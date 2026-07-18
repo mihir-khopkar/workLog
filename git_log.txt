@@ -3829,3 +3829,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix database indexing to reduce unnecessary work
 [realEstateListing] Fix pagination logic to improve developer experience
 [dogShelter] Fix date handling for better maintainability
+[personalPortfolioWebsite] Fix edge-case handling to make failures easier to diagnose
