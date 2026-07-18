@@ -3835,3 +3835,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix accessibility labels to make behavior more predictable
 [personalPortfolioWebsite] Fix query performance to improve reliability
 [personalPortfolioWebsite] Fix function naming to support mobile devices
+[personalPortfolioWebsite] Fix deployment configuration to reduce duplication
