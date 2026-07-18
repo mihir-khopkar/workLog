@@ -3836,3 +3836,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix query performance to improve reliability
 [personalPortfolioWebsite] Fix function naming to support mobile devices
 [personalPortfolioWebsite] Fix deployment configuration to reduce duplication
+[dogShelter] Fix logging to improve performance
