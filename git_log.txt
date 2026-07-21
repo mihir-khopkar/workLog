@@ -3817,3 +3817,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix database indexing to reduce duplication
 [foodOrderingApp] Fix logging
 [realEstateListing] Fix pagination logic to improve developer experience
+[dogShelter] Fix filter controls
