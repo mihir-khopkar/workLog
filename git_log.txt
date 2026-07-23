@@ -3804,3 +3804,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix handling for authorization checks
 [realEstateListing] Fix database indexing to support mobile devices
 [dogShelter] Fix date handling for better maintainability
+[personalPortfolioWebsite] Fix configuration handling to simplify the implementation
