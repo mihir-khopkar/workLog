@@ -3788,3 +3788,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix development scripts to reduce duplication
 [realEstateListing] Fix API response handling to improve user experience
 [personalPortfolioWebsite] Fix CSS responsiveness to simplify the implementation
+[foodOrderingApp] Fix dependency versions to make behavior more predictable
