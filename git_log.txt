@@ -3797,3 +3797,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix null handling to improve developer experience
 [realEstateListing] Fix query performance to handle edge cases
 [personalPortfolioWebsite] Fix CSS responsiveness to reduce unnecessary work
+[dogShelter] Fix component structure to improve test coverage
