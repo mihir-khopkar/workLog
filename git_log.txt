@@ -3798,3 +3798,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix query performance to handle edge cases
 [personalPortfolioWebsite] Fix CSS responsiveness to reduce unnecessary work
 [dogShelter] Fix component structure to improve test coverage
+[dogShelter] Fix API response handling for better readability
