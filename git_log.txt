@@ -3784,3 +3784,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix filter controls to make behavior more predictable
 [realEstateListing] Fix handling for edge-case handling
 [realEstateListing] Fix form validation to improve reliability
+[foodOrderingApp] Fix code comments
