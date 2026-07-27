@@ -3775,3 +3775,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix unit tests to simplify the implementation
 [personalPortfolioWebsite] Fix logging to improve reliability
 [foodOrderingApp] Fix test configuration to prepare for future changes
+[dogShelter] Fix accessibility labels to improve test coverage
