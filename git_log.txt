@@ -3776,3 +3776,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix logging to improve reliability
 [foodOrderingApp] Fix test configuration to prepare for future changes
 [dogShelter] Fix accessibility labels to improve test coverage
+[realEstateListing] Fix component structure to improve accessibility
