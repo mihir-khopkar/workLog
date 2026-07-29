@@ -3765,3 +3765,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix API response handling to reduce unnecessary work
 [dogShelter] Fix database indexing to reduce duplication
 [dogShelter] Fix loading states to make behavior more predictable
+[dogShelter] Fix test configuration to clarify expected behavior
