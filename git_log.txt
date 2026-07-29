@@ -3773,3 +3773,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix logging to improve reliability
 [foodOrderingApp] Fix authentication flow to improve consistency
 [foodOrderingApp] Fix unit tests to simplify the implementation
+[personalPortfolioWebsite] Fix logging to improve reliability
