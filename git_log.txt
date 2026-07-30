@@ -3763,3 +3763,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix form validation to support mobile devices
 [dogShelter] Fix deployment configuration to improve reliability
 [personalPortfolioWebsite] Fix API response handling to reduce unnecessary work
+[dogShelter] Fix database indexing to reduce duplication
