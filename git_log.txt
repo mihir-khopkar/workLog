@@ -3751,3 +3751,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix edge-case handling to handle edge cases
 [dogShelter] Fix pagination logic to support mobile devices
 [dogShelter] Fix database queries to improve developer experience
+[dogShelter] Fix handling for input validation
