@@ -3754,3 +3754,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix handling for input validation
 [foodOrderingApp] Fix test configuration to prepare for future changes
 [personalPortfolioWebsite] Fix unit tests
+[personalPortfolioWebsite] Fix deployment configuration to reduce duplication
