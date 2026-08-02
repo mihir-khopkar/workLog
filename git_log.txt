@@ -3741,3 +3741,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix null handling to improve user experience
 [foodOrderingApp] Fix authorization checks to improve user experience
 [realEstateListing] Fix build configuration to improve consistency
+[foodOrderingApp] Fix development scripts to improve test coverage
