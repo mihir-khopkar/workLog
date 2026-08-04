@@ -3732,3 +3732,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix dependency versions to improve test coverage
 [personalPortfolioWebsite] Fix state management to improve user experience
 [foodOrderingApp] Fix component structure to improve developer experience
+[foodOrderingApp] Fix API response handling to reduce duplication
