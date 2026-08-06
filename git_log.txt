@@ -3721,3 +3721,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix lint configuration to improve test coverage
 [dogShelter] Fix null handling to improve accessibility
 [realEstateListing] Fix input validation to keep the implementation consistent
+[personalPortfolioWebsite] Fix support for API error handling
