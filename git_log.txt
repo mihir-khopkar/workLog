@@ -3691,3 +3691,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix support for cache behavior
 [foodOrderingApp] Fix authorization checks to improve accessibility
 [dogShelter] Fix component structure to improve consistency
+[personalPortfolioWebsite] Fix pagination logic to improve performance
