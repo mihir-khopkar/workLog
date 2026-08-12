@@ -3688,3 +3688,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix logging to clarify expected behavior
 [personalPortfolioWebsite] Fix code comments to support mobile devices
 [foodOrderingApp] Fix image loading to improve user experience
+[personalPortfolioWebsite] Fix support for cache behavior
