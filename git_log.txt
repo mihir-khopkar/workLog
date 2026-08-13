@@ -3686,3 +3686,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix unit tests for better maintainability
 [foodOrderingApp] Fix function naming for better readability
 [personalPortfolioWebsite] Fix logging to clarify expected behavior
+[personalPortfolioWebsite] Fix code comments to support mobile devices
