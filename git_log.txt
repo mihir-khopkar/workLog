@@ -3672,3 +3672,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix configuration handling to keep the implementation consistent
 [foodOrderingApp] Fix support for test configuration
 [dogShelter] Fix dependency versions to improve user experience
+[foodOrderingApp] Fix image loading to make failures easier to diagnose
