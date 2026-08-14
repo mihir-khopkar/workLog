@@ -3678,3 +3678,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix date handling to keep the implementation consistent
 [foodOrderingApp] Fix image loading to make failures easier to diagnose
 [personalPortfolioWebsite] Fix state management to make behavior more predictable
+[personalPortfolioWebsite] Fix type definitions to support mobile devices
