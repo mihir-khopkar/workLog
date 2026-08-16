@@ -3655,3 +3655,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix query performance to improve developer experience
 [dogShelter] Fix unit tests to improve user experience
 [personalPortfolioWebsite] Fix input validation to simplify the implementation
+[dogShelter] Fix accessibility labels to improve test coverage
