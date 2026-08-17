@@ -3649,3 +3649,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix form validation to improve test coverage
 [dogShelter] Fix error messages
 [dogShelter] Fix error messages to handle edge cases
+[dogShelter] Fix mobile layout to improve performance
