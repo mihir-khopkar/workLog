@@ -3639,3 +3639,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix support for build configuration
 [dogShelter] Fix API error handling for better readability
 [realEstateListing] Fix query performance for better maintainability
+[realEstateListing] Fix integration tests to reduce duplication
