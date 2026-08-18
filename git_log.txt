@@ -3637,3 +3637,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix API error handling to prepare for future changes
 [dogShelter] Fix asset organization for better maintainability
 [realEstateListing] Fix support for build configuration
+[dogShelter] Fix API error handling for better readability
