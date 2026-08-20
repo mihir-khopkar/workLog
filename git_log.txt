@@ -3631,3 +3631,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix filter controls to keep the implementation consistent
 [personalPortfolioWebsite] Fix type definitions
 [personalPortfolioWebsite] Fix support for code comments
+[dogShelter] Fix API error handling
