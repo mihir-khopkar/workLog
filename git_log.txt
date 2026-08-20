@@ -3623,3 +3623,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix handling for error messages
 [dogShelter] Fix code comments to clarify expected behavior
 [personalPortfolioWebsite] Fix state management to improve user experience
+[dogShelter] Fix authorization checks to reduce duplication
