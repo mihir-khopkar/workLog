@@ -3629,3 +3629,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix configuration handling to improve consistency
 [personalPortfolioWebsite] Fix integration tests for better maintainability
 [personalPortfolioWebsite] Fix filter controls to keep the implementation consistent
+[personalPortfolioWebsite] Fix type definitions
