@@ -3620,3 +3620,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix state management to keep the implementation consistent
 [foodOrderingApp] Fix pagination logic to improve accessibility
 [dogShelter] Fix logging to improve accessibility
+[dogShelter] Fix handling for error messages
