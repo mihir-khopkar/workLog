@@ -3613,3 +3613,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix asset organization to support mobile devices
 [dogShelter] Fix test configuration to simplify the implementation
 [realEstateListing] Fix environment variables to improve consistency
+[personalPortfolioWebsite] Fix database queries to make failures easier to diagnose
