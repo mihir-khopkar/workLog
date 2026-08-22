@@ -3621,3 +3621,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix pagination logic to improve accessibility
 [dogShelter] Fix logging to improve accessibility
 [dogShelter] Fix handling for error messages
+[dogShelter] Fix code comments to clarify expected behavior
