@@ -3615,3 +3615,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix environment variables to improve consistency
 [personalPortfolioWebsite] Fix database queries to make failures easier to diagnose
 [dogShelter] Fix development scripts to keep the implementation consistent
+[dogShelter] Fix accessibility labels to improve consistency
