@@ -3607,3 +3607,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix filter controls to improve user experience
 [realEstateListing] Fix error messages to prepare for future changes
 [dogShelter] Fix database indexing to improve consistency
+[personalPortfolioWebsite] Fix null handling to improve developer experience
