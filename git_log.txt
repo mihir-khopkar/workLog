@@ -3602,3 +3602,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix integration tests to make failures easier to diagnose
 [realEstateListing] Fix component structure to improve performance
 [foodOrderingApp] Fix handling for README documentation
+[foodOrderingApp] Fix error messages to improve test coverage
