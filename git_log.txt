@@ -3593,3 +3593,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix handling for logging
 [personalPortfolioWebsite] Fix navigation behavior to clarify expected behavior
 [foodOrderingApp] Fix filter controls to clarify expected behavior
+[dogShelter] Fix test configuration to prevent runtime errors
