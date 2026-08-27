@@ -3590,3 +3590,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix configuration handling for better readability
 [personalPortfolioWebsite] Fix unit tests to clarify expected behavior
 [foodOrderingApp] Fix database queries to support mobile devices
+[personalPortfolioWebsite] Fix handling for logging
