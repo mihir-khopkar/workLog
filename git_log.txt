@@ -3573,3 +3573,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix build configuration to improve developer experience
 [dogShelter] Fix state management for better readability
 [realEstateListing] Fix authentication flow to prevent runtime errors
+[foodOrderingApp] Fix API error handling to prevent runtime errors
