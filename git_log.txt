@@ -3581,3 +3581,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix cache behavior to clarify expected behavior
 [dogShelter] Fix error messages for better readability
 [foodOrderingApp] Fix performance of API calls to improve user experience
+[personalPortfolioWebsite] Fix null handling to clarify expected behavior
