@@ -3576,3 +3576,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix API error handling to prevent runtime errors
 [personalPortfolioWebsite] Fix API error handling to keep the implementation consistent
 [foodOrderingApp] Fix search functionality to keep the implementation consistent
+[personalPortfolioWebsite] Fix component structure to support mobile devices
