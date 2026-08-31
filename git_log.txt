@@ -3563,3 +3563,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix dependency versions to keep the implementation consistent
 [foodOrderingApp] Fix input validation for better maintainability
 [realEstateListing] Fix handling for image loading
+[dogShelter] Fix form validation to prepare for future changes
