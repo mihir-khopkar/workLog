@@ -3550,3 +3550,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix type definitions to prepare for future changes
 [dogShelter] Fix cache behavior to clarify expected behavior
 [dogShelter] Fix support for dependency versions
+[realEstateListing] Fix integration tests to reduce duplication
