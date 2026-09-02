@@ -3553,3 +3553,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix integration tests to reduce duplication
 [dogShelter] Fix state management to improve accessibility
 [foodOrderingApp] Fix logging
+[dogShelter] Fix error messages to handle edge cases
