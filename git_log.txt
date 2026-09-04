@@ -3539,3 +3539,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix database indexing for better readability
 [realEstateListing] Fix handling for type definitions
 [realEstateListing] Fix CSS responsiveness to make failures easier to diagnose
+[personalPortfolioWebsite] Fix null handling to improve performance
