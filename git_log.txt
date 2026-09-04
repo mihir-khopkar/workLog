@@ -3541,3 +3541,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix CSS responsiveness to make failures easier to diagnose
 [personalPortfolioWebsite] Fix null handling to improve performance
 [dogShelter] Fix integration tests for better readability
+[realEstateListing] Fix API response handling to prevent runtime errors
