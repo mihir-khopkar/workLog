@@ -3535,3 +3535,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix authentication flow to improve consistency
 [foodOrderingApp] Fix image loading to make failures easier to diagnose
 [foodOrderingApp] Fix error messages to reduce unnecessary work
+[dogShelter] Fix database indexing to improve user experience
