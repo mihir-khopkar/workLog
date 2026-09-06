@@ -3531,3 +3531,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix support for mobile layout
 [foodOrderingApp] Fix configuration handling to keep the implementation consistent
 [dogShelter] Fix deployment configuration for better readability
+[personalPortfolioWebsite] Fix type definitions to support mobile devices
