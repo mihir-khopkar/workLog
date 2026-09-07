@@ -3530,3 +3530,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix dependency versions to keep the implementation consistent
 [realEstateListing] Fix support for mobile layout
 [foodOrderingApp] Fix configuration handling to keep the implementation consistent
+[dogShelter] Fix deployment configuration for better readability
