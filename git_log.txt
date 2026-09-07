@@ -3527,3 +3527,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix support for integration tests
 [foodOrderingApp] Fix pagination logic to keep the implementation consistent
 [realEstateListing] Fix logging to improve consistency
+[foodOrderingApp] Fix dependency versions to keep the implementation consistent
