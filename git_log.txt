@@ -3520,3 +3520,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix type definitions to make failures easier to diagnose
 [personalPortfolioWebsite] Fix unit tests to clarify expected behavior
 [foodOrderingApp] Fix unit tests to simplify the implementation
+[foodOrderingApp] Fix dependency versions to keep the implementation consistent
