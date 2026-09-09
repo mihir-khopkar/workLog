@@ -3512,3 +3512,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix pagination logic to prevent runtime errors
 [dogShelter] Fix mobile layout to improve user experience
 [personalPortfolioWebsite] Fix CSS responsiveness to support mobile devices
+[dogShelter] Fix integration tests to handle edge cases
