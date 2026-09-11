@@ -3489,3 +3489,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix code comments to make failures easier to diagnose
 [foodOrderingApp] Fix edge-case handling to reduce duplication
 [realEstateListing] Fix code comments for better maintainability
+[personalPortfolioWebsite] Fix API error handling to keep the implementation consistent
