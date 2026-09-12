@@ -3491,3 +3491,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix code comments for better maintainability
 [personalPortfolioWebsite] Fix API error handling to keep the implementation consistent
 [personalPortfolioWebsite] Fix accessibility labels to improve reliability
+[dogShelter] Fix API request retries to improve performance
