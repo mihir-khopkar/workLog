@@ -3478,3 +3478,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix development scripts to make failures easier to diagnose
 [realEstateListing] Fix handling for query performance
 [realEstateListing] Fix mobile layout
+[dogShelter] Fix development scripts for better maintainability
