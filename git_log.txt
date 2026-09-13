@@ -3485,3 +3485,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix environment variables to reduce duplication
 [foodOrderingApp] Fix form validation to handle edge cases
 [personalPortfolioWebsite] Fix search functionality to improve test coverage
+[dogShelter] Fix performance of API calls for better maintainability
