@@ -3484,3 +3484,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix authorization checks to clarify expected behavior
 [foodOrderingApp] Fix environment variables to reduce duplication
 [foodOrderingApp] Fix form validation to handle edge cases
+[personalPortfolioWebsite] Fix search functionality to improve test coverage
