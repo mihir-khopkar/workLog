@@ -3468,3 +3468,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix function naming to clarify expected behavior
 [foodOrderingApp] Fix edge-case handling to improve developer experience
 [dogShelter] Fix image loading to handle edge cases
+[dogShelter] Fix function naming to prepare for future changes
