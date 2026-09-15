@@ -3475,3 +3475,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix form validation to make behavior more predictable
 [dogShelter] Fix image loading for better maintainability
 [dogShelter] Fix support for form validation
+[realEstateListing] Fix development scripts to make failures easier to diagnose
