@@ -3470,3 +3470,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix image loading to handle edge cases
 [dogShelter] Fix function naming to prepare for future changes
 [personalPortfolioWebsite] Fix authentication flow to keep the implementation consistent
+[foodOrderingApp] Fix authentication flow to improve test coverage
