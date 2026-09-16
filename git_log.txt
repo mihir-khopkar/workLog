@@ -3465,3 +3465,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix integration tests to handle edge cases
 [realEstateListing] Fix CSS responsiveness
 [realEstateListing] Fix build configuration to improve accessibility
+[dogShelter] Fix function naming to clarify expected behavior
