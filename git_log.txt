@@ -3455,3 +3455,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix dependency versions to improve developer experience
 [realEstateListing] Fix API response handling to clarify expected behavior
 [realEstateListing] Fix handling for configuration handling
+[dogShelter] Fix test configuration to improve user experience
