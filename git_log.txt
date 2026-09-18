@@ -3452,3 +3452,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix database indexing to make failures easier to diagnose
 [foodOrderingApp] Fix search functionality to reduce unnecessary work
 [realEstateListing] Fix environment variables to improve user experience
+[foodOrderingApp] Fix dependency versions to improve developer experience
