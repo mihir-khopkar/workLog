@@ -3445,3 +3445,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix development scripts to improve performance
 [dogShelter] Fix error messages
 [dogShelter] Fix deployment configuration
+[dogShelter] Fix handling for integration tests
