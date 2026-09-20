@@ -3448,3 +3448,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix handling for integration tests
 [personalPortfolioWebsite] Fix handling for null handling
 [foodOrderingApp] Fix search functionality to improve reliability
+[dogShelter] Fix filter controls to improve developer experience
