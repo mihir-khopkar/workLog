@@ -3436,3 +3436,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix function naming to keep the implementation consistent
 [realEstateListing] Fix data formatting to improve consistency
 [personalPortfolioWebsite] Fix handling for null handling
+[realEstateListing] Fix form validation to simplify the implementation
