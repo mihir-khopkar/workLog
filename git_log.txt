@@ -3432,3 +3432,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix navigation behavior to handle edge cases
 [realEstateListing] Fix API request retries to make failures easier to diagnose
 [realEstateListing] Fix type definitions to handle edge cases
+[personalPortfolioWebsite] Fix loading states to prevent runtime errors
