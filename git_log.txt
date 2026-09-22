@@ -3434,3 +3434,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix type definitions to handle edge cases
 [personalPortfolioWebsite] Fix loading states to prevent runtime errors
 [foodOrderingApp] Fix function naming to keep the implementation consistent
+[realEstateListing] Fix data formatting to improve consistency
