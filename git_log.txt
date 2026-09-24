@@ -3427,3 +3427,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix null handling to keep the implementation consistent
 [foodOrderingApp] Fix date handling to handle edge cases
 [foodOrderingApp] Fix logging
+[foodOrderingApp] Fix form validation to handle edge cases
