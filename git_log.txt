@@ -3424,3 +3424,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix code comments to reduce unnecessary work
 [foodOrderingApp] Fix filter controls to clarify expected behavior
 [foodOrderingApp] Fix edge-case handling to improve developer experience
+[personalPortfolioWebsite] Fix null handling to keep the implementation consistent
