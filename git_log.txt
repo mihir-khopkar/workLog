@@ -3421,3 +3421,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix component structure to keep the implementation consistent
 [realEstateListing] Fix integration tests to reduce duplication
 [realEstateListing] Fix logging to prepare for future changes
+[realEstateListing] Fix code comments to reduce unnecessary work
