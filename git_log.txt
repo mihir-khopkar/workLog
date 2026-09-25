@@ -3415,3 +3415,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix support for lint configuration
 [realEstateListing] Fix component structure to improve performance
 [personalPortfolioWebsite] Fix image loading to improve developer experience
+[personalPortfolioWebsite] Fix type definitions to keep the implementation consistent
