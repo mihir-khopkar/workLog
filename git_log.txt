@@ -3412,3 +3412,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix filter controls to make failures easier to diagnose
 [foodOrderingApp] Fix logging to make behavior more predictable
 [personalPortfolioWebsite] Fix filter controls to improve user experience
+[foodOrderingApp] Fix support for lint configuration
