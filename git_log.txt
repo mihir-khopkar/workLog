@@ -3409,3 +3409,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [realEstateListing] Fix dependency versions to simplify the implementation
 [personalPortfolioWebsite] Fix environment variables
 [dogShelter] Fix authentication flow to make behavior more predictable
+[personalPortfolioWebsite] Fix filter controls to make failures easier to diagnose
