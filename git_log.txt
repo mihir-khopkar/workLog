@@ -3406,3 +3406,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix type definitions to reduce duplication
 [realEstateListing] Fix type definitions to handle edge cases
 [foodOrderingApp] Fix test configuration to reduce unnecessary work
+[realEstateListing] Fix dependency versions to simplify the implementation
