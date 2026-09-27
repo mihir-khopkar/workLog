@@ -3408,3 +3408,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [foodOrderingApp] Fix test configuration to reduce unnecessary work
 [realEstateListing] Fix dependency versions to simplify the implementation
 [personalPortfolioWebsite] Fix environment variables
+[dogShelter] Fix authentication flow to make behavior more predictable
