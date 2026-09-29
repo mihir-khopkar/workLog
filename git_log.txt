@@ -3398,3 +3398,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix navigation behavior to prevent runtime errors
 [realEstateListing] Fix component structure to make behavior more predictable
 [personalPortfolioWebsite] Fix development scripts to prevent runtime errors
+[personalPortfolioWebsite] Fix form validation to make failures easier to diagnose
