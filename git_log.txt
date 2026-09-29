@@ -3395,3 +3395,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [personalPortfolioWebsite] Fix input validation to improve user experience
 [realEstateListing] Fix environment variables to prevent runtime errors
 [foodOrderingApp] Fix development scripts to simplify the implementation
+[personalPortfolioWebsite] Fix navigation behavior to prevent runtime errors
