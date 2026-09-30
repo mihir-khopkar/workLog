@@ -3385,3 +3385,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix lint configuration to prepare for future changes
 [dogShelter] Fix search functionality to handle edge cases
 [dogShelter] Fix authorization checks to improve consistency
+[foodOrderingApp] Fix CSS responsiveness to improve consistency
