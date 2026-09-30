@@ -3389,3 +3389,4 @@ dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions 
 [dogShelter] Fix environment variables to improve reliability
 [foodOrderingApp] Fix authentication flow to improve consistency
 [personalPortfolioWebsite] Fix error messages to reduce duplication
+[personalPortfolioWebsite] Fix loading states
