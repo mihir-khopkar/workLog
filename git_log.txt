@@ -3383,3 +3383,4 @@ ea610c9 - Mihir Khopkar, in the future : [foodOrderingApp] Fix date handling to 
 dbad8d7 - Mihir Khopkar, in the future : [foodOrderingApp] Fix type definitions to improve test coverage
 [NewPersonalPortfolio] : Repo Creation and Initial Setup
 [dogShelter] Fix lint configuration to prepare for future changes
+[dogShelter] Fix search functionality to handle edge cases
