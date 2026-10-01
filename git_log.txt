@@ -1,3 +1,4 @@
+[NewPersonalPortfolio] : updated contact us and github link
 [NewPersonalPortfolio] : Repo Creation and Initial Setup
 [dogShelter] Fix lint configuration to prepare for future changes
 [dogShelter] Fix search functionality to handle edge cases
