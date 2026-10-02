@@ -1,3 +1,4 @@
+[paw-home] : local setup and project skeleton 
 [NewPersonalPortfolio] : updated contact us and github link
 [NewPersonalPortfolio] : Repo Creation and Initial Setup
 [dogShelter] Fix lint configuration to prepare for future changes
